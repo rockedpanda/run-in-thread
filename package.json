@@ -16,6 +16,7 @@
   ],
   "author": "rockedpanda",
   "license": "MIT",
+  "files":["README.MD","runInThread.js","package.json"],
   "bugs": {
     "url": "https://github.com/rockedpanda/run-in-thread/issues"
   },

@@ -15,7 +15,6 @@ function runInThread(fn, data){
       workerData : data
     });
     worker.once('message', result =>{
-      console.log(result,'------------------');
       worker.terminate();
       resovle(result);
     });
