@@ -1,0 +1,23 @@
+{
+  "name": "run-in-thread",
+  "version": "0.1.0",
+  "description": "Run a function in work thread for NodeJS",
+  "main": "runInThread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockedpanda/run-in-thread.git"
+  },
+  "keywords": [
+    "thread",
+    "nodejs"
+  ],
+  "author": "rockedpanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockedpanda/run-in-thread/issues"
+  },
+  "homepage": "https://github.com/rockedpanda/run-in-thread#readme"
+}
